@@ -1,0 +1,24 @@
+{
+  "sof": [
+    4840,
+    1567
+  ],
+  "eof": [
+    795
+  ],
+  "words": [
+    [
+      705,
+      409
+    ],
+    [
+      341,
+      774
+    ]
+  ],
+  "interval": 10000,
+  "sensitivity": 0.5,
+  "repetitions": 20,
+  "minimalLength": 39,
+  "maximalLength": 39
+}

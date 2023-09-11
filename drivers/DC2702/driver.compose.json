@@ -1,0 +1,41 @@
+{
+  "name": {
+    "en": "Dooya Blinds"
+  },
+  "class": "blinds",
+  "capabilities": [
+    "windowcoverings_state"
+  ],
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "connectivity": [
+    "rf433"
+  ],
+  "rf433": {
+    "satelliteMode": true
+  },
+  "images": {
+    "small": "{{driverAssetsPath}}/images/small.jpg",
+    "large": "{{driverAssetsPath}}/images/large.jpg"
+  },
+  "permissions": [
+    "homey:wireless:433"
+  ],
+  "pair": [
+    {
+      "id": "rf_transmitter_learn",
+      "options": {
+        "title": {
+          "en": "Press any button",
+          "nl": "Druk op een willekeurige knop"
+        },
+        "instruction": {
+          "en": "Press any button on your device.",
+          "nl": "Druk op een willekeurige knop op het apparaat"
+        }
+      }
+    }
+  ]
+}

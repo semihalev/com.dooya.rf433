@@ -1,0 +1,32 @@
+{
+  "id": "com.dooya.rf433",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "support": "https://github.com/semihalev/com.dooya",
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "name": {
+    "en": "Dooya"
+  },
+  "description": {
+    "en": "Dooya Motors"
+  },
+  "category": [
+    "appliances"
+  ],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png"
+  },
+  "permissions": [
+    "homey:wireless:433"
+  ],
+  "author": {
+    "name": "Yasar Semih Alev",
+    "email": "semihalev@gmail.com"
+  },
+  "brandColor": "#5FA223"
+}
