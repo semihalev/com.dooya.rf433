@@ -7,8 +7,7 @@
     "windowcoverings_state"
   ],
   "platforms": [
-    "local",
-    "cloud"
+    "local"
   ],
   "connectivity": [
     "rf433"

@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "support": "https://github.com/semihalev/com.dooya",
+  "support": "https://github.com/semihalev/com.dooya.rf433",
   "platforms": [
-    "local",
-    "cloud"
+    "local"
   ],
   "name": {
     "en": "Dooya"
